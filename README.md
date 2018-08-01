@@ -1,2 +1,1 @@
-# meals4mates
-EDA Final Project
+# Meals4Mates

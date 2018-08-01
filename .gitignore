@@ -1,0 +1,9 @@
+node_modules
+bundle*
+*.log
+.DS_Store
+*.sqlite*
+.env
+sodium*
+yarn-error.*
+config.json
